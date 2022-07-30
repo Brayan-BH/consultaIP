@@ -1,0 +1,23 @@
+/* Simplified example */
+h1{
+    color: #57cc99;
+    margin-top: 5%;
+}
+#submit{
+    background-color: #ffb703;
+    border: none;
+    color: #023047;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+small{
+    color: #ffb703;
+}
+#results{
+    color: #00f5d4;
+}
